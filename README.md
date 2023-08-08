@@ -1,6 +1,6 @@
 # Experimental resuls of HCTO-LIO (Click the gif for a non-speeding-up video)
 
-## 1. Evaluation in Vicon Room viconroom
+## 1. Evaluation in Vicon Room
 ## 1.1 Seq 1 (Walking :walking:) 
 [![WHU_HELMET_SUBWAY](./images/viconroom.gif)](https://youtu.be/bteNkqTTbmc)
 
