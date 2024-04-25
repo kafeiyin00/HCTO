@@ -3,6 +3,19 @@
 
 [![WHU_HELMET_SUBWAY](./images/last_mile_delivery.png)]()
 
+```
+@article{li2024hcto,
+  title={HCTO: Optimality-aware LiDAR inertial odometry with hybrid continuous time optimization for compact wearable mapping system},
+  author={Li, Jianping and Yuan, Shenghai and Cao, Muqing and Nguyen, Thien-Minh and Cao, Kun and Xie, Lihua},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={211},
+  pages={228--243},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
+
 # Experimental resuls of HCTO-LIO (Click the gif for a non-speeding-up video)
 
 ## 1. Evaluation in Vicon Room
